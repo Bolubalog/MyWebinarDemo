@@ -1,0 +1,12 @@
+C:\Users\HP\webinar\HelloWorldApp
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=HelloWorldApp
+--content-root=C:\Users\HP\webinar\HelloWorldApp
+--file=C:\Users\HP\webinar\HelloWorldApp\Views\Home\About.cshtml
+--file=C:\Users\HP\webinar\HelloWorldApp\Views\Home\Contact.cshtml
+--file=C:\Users\HP\webinar\HelloWorldApp\Views\Home\Index.cshtml
+--file=C:\Users\HP\webinar\HelloWorldApp\Views\Shared\Error.cshtml
+--file=C:\Users\HP\webinar\HelloWorldApp\Views\Shared\_Layout.cshtml
+--file=C:\Users\HP\webinar\HelloWorldApp\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\HP\webinar\HelloWorldApp\Views\_ViewImports.cshtml
+--file=C:\Users\HP\webinar\HelloWorldApp\Views\_ViewStart.cshtml
